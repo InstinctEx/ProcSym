@@ -1,0 +1,16 @@
+C:\Users\Blink\source\repos\ProcSym\ProcSym\bin\Release\net8.0-windows\ProcSym.exe
+C:\Users\Blink\source\repos\ProcSym\ProcSym\bin\Release\net8.0-windows\ProcSym.deps.json
+C:\Users\Blink\source\repos\ProcSym\ProcSym\bin\Release\net8.0-windows\ProcSym.runtimeconfig.json
+C:\Users\Blink\source\repos\ProcSym\ProcSym\bin\Release\net8.0-windows\ProcSym.dll
+C:\Users\Blink\source\repos\ProcSym\ProcSym\bin\Release\net8.0-windows\ProcSym.pdb
+C:\Users\Blink\source\repos\ProcSym\ProcSym\obj\Release\net8.0-windows\ProcSym.Main.resources
+C:\Users\Blink\source\repos\ProcSym\ProcSym\obj\Release\net8.0-windows\ProcSym.csproj.GenerateResource.cache
+C:\Users\Blink\source\repos\ProcSym\ProcSym\obj\Release\net8.0-windows\ProcSym.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blink\source\repos\ProcSym\ProcSym\obj\Release\net8.0-windows\ProcSym.AssemblyInfoInputs.cache
+C:\Users\Blink\source\repos\ProcSym\ProcSym\obj\Release\net8.0-windows\ProcSym.AssemblyInfo.cs
+C:\Users\Blink\source\repos\ProcSym\ProcSym\obj\Release\net8.0-windows\ProcSym.csproj.CoreCompileInputs.cache
+C:\Users\Blink\source\repos\ProcSym\ProcSym\obj\Release\net8.0-windows\ProcSym.dll
+C:\Users\Blink\source\repos\ProcSym\ProcSym\obj\Release\net8.0-windows\refint\ProcSym.dll
+C:\Users\Blink\source\repos\ProcSym\ProcSym\obj\Release\net8.0-windows\ProcSym.pdb
+C:\Users\Blink\source\repos\ProcSym\ProcSym\obj\Release\net8.0-windows\ProcSym.genruntimeconfig.cache
+C:\Users\Blink\source\repos\ProcSym\ProcSym\obj\Release\net8.0-windows\ref\ProcSym.dll
